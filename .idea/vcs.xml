@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="G:/BigData1909资料/scala/dmp" vcs="Git" />
     <mapping directory="G:/BigData1909资料/scala/dmp/DMP-bj1909" vcs="Git" />
   </component>
 </project>
